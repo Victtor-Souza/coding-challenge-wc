@@ -91,7 +91,3 @@ $ ./ccwc test.txt
 ## Requisitos
 
 - Go 1.18+
-
-## Licença
-
-MIT
